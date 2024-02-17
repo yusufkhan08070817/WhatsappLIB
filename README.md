@@ -1,6 +1,6 @@
 #  $${\color{green}WhatsappLIB}$$ 
 ### WhatsappLIB is a simple library for Android that enables users to send messages to WhatsApp directly from your application.
-# SS{\color{green}Installation}$$
+# $${\color{green}Installation}$$
 #Add the following repository to your root build.gradle file:
 ```
 dependencyResolutionManagement {
