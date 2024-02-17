@@ -49,7 +49,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.yusufkhan08070817"
                 artifactId = "CustomNave"
-                version = "1.0"
+                version = "1.0.1"
             }
         }
     }

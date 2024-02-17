@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Whatsapp("+919098029683",this)
+        Whatsapp(this,"+919098029683","hello")
     }
 }
